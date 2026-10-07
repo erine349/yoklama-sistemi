@@ -1,0 +1,6 @@
+{
+  "name": "AkademiPro Okul Yönetim Sistemi",
+  "description": "Özel okullar için E-Okul benzeri modern, hızlı, rol tabanlı akademik ve idari yönetim platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
